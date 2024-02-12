@@ -31,7 +31,7 @@ PEP8
 All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0 . Control version using Git 2.25.1.
 
 0x03 Installation
-git clone https://github.com/aysuarex/AirBnB_clone.git
+git clone https://github.com/Esamtejani/AirBnB_clone.git
 change to the AirBnb directory and run the command:
 
  ./console.py
